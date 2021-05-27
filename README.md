@@ -1,2 +1,2 @@
-# GUI-for-samp-cheats
+# GUI-for-samp-cheats [Lua]
 Developing new gui for samp projects
